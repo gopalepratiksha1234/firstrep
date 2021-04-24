@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5201-1A97
+
+ Directory of C:\Users\PRATIKSHA\Desktop\git prj
+
+04/24/2021  11:24 PM    <DIR>          .
+04/24/2021  11:24 PM    <DIR>          ..
+04/24/2021  11:24 PM                 0 1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  28,391,456,768 bytes free
